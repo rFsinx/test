@@ -17,7 +17,6 @@ charge of an ionized atom: $q=nq_e \quad (n: \text{mole of electrons transferred
 # Coulomb's Law
 
 **electric force**
-$$
-\vec F_E = \frac{1}{4\pi \varepsilon_0} \frac{q_1q_2}{r^2} \hat r \qquad   \varepsilon_0 = 8.85 \times 10^{-12} \ C^2 \text{/} (N\cdot m^2)
-$$
-$$\hat r: \text{radial unit vector} \implies |\hat r| = 1$$
+$$ \vec F_E = \frac{1}{4\pi \varepsilon_0} \frac{q_1q_2}{r^2} \hat r \qquad \varepsilon_0 = 8.85 \times 10^{-12} \text{ C}^2 / (\text{N}\cdot \text{m}^2) $$
+
+$$ \hat r : \text{radial unit vector} \implies |\hat r| = 1 $$

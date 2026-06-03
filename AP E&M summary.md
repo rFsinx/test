@@ -1,15 +1,13 @@
-EXAMPLE MD.
-
 # Electric Charges, Fields, and Gauss's Law
 
 ### Atoms & Charge
 
 atom $\implies$ protons (+) & neutrons (0) & electrons (-) $\implies$ mostly empty space held by electromegnetic force
 
-like charges repel, opposite charges attract\
+like charges repel, opposite charges attract
 
 **charged matter**
-gain electrons ($\uparrow e^- \#$) $\implies$ more negative        lose electrons $\implies$ more positive
+gain electrons ($\uparrow e^-$ #) $\implies$ more negative        lose electrons $\implies$ more positive
 
 **quantization**
 charge of an electron: $q_e = -1.6 \times 10^{-19} C$
